@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin version="0.0.1" id="reinarte-gms" xmlns="http://www.phonegap.com/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<name>Reinarte GMS Version</name>
+	<author>Elmer Nancher (Reinarte)</author>
+
+	<config-file target="AndroidManifest.xml" parent="/manifest/application">
+		<meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+	</config-file>
+
+</plugin>
