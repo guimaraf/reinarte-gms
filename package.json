@@ -1,0 +1,14 @@
+{
+    "version": "1.0.1",
+    "name": "reinarte-gms",
+    "cordova_name": "Reinarte GMS",
+    "platforms": [
+        "android"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.0.0"
+        }
+    ]
+}
